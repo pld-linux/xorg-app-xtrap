@@ -11,9 +11,9 @@ Patch0:		xtrap-man.patch
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
+BuildRequires:	pkgconfig >= 0.19
 BuildRequires:	xorg-lib-libXTrap-devel
 BuildRequires:	xorg-util-util-macros
-BuildRequires:	pkgconfig >= 0.19
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
