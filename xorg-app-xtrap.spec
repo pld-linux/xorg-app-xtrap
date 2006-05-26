@@ -1,12 +1,12 @@
 Summary:	xtrap application
 Summary(pl):	Aplikacja xtrap
 Name:		xorg-app-xtrap
-Version:	1.0.1
-Release:	0.1
+Version:	1.0.2
+Release:	1
 License:	MIT
 Group:		X11/Applications
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/app/xtrap-%{version}.tar.bz2
-# Source0-md5:	e49c695a0af17bc4896e51c298304643
+Source0:	http://xorg.freedesktop.org/releases/individual/app/xtrap-%{version}.tar.bz2
+# Source0-md5:	97a62a011a11f03b46d72851aa298fa8
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
