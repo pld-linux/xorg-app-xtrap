@@ -1,5 +1,5 @@
 Summary:	xtrap application
-Summary(pl.UTF-8):   Aplikacja xtrap
+Summary(pl.UTF-8):	Aplikacja xtrap
 Name:		xorg-app-xtrap
 Version:	1.0.2
 Release:	1
