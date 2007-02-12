@@ -1,5 +1,5 @@
 Summary:	xtrap application
-Summary(pl):	Aplikacja xtrap
+Summary(pl.UTF-8):   Aplikacja xtrap
 Name:		xorg-app-xtrap
 Version:	1.0.2
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 xtrap application.
 
-%description -l pl
+%description -l pl.UTF-8
 Aplikacja xtrap.
 
 %prep
